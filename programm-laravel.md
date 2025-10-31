@@ -1,5 +1,6 @@
 # 🎓 Plan Pédagogique Complet Laravel 12 + Blade avec TP et Projets
 
+[Documentation Laravel 12](https://github.com/laravel/docs/tree/12.x)
 ---
 
 ## 📘 PHASE 1 : FONDATIONS (4 semaines)
